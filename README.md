@@ -1,4 +1,4 @@
-# MongoDB Assignment [Download MongoDB Assignment](./Mongodb_Assignment.docx)
+# MongoDB Assignment [Download MongoDB Assignment](./Mongodb_Assignment.pdf)
 
 ## Overview
 - Work with MongoDB collections
